@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\bin\Debug\preg3.exe.config
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\bin\Debug\preg3.exe
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\bin\Debug\preg3.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.Properties.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.csproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.exe
+c:\users\miguel\documents\visual studio 2012\Projects\preg3\preg3\obj\Debug\preg3.pdb
